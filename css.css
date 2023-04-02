@@ -1,4 +1,4 @@
-https://raw.githack.com/15042003aA/lesson3/main/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.css
+@import url ("https://raw.githack.com/15042003aA/lesson3/main/%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0.css");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,500,600,700");
 header #headline, header #circular-bg {
 
@@ -19,7 +19,7 @@ header #headline, header #circular-bg {
 
   text-decoration: none;
 
-  color: #fff;
+  color: transparent;
 
 }
 body {
